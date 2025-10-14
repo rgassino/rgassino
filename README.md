@@ -1,18 +1,26 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30>, this is Riccardo Gassino's GitHub!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30>, I'm Riccardo Gassino!
 
 <br/>
 
-- 🧬 💻 biomedical engineer passionate about computer vision in healthcare
-  
-- 🧠 🦷 currently working on Machine Learning / Artificial Intelligence for Dentisrty
-
-- 📫 🚀 let's connect on https://www.linkedin.com/in/riccardo-gassino-77182ab6/
+- 💻 **Head of AI** — leading research and development in **3D reconstruction from medical images**
+- 🧠 Biomedical engineer with a passion for **computer vision and artificial intelligence in healthcare**
+- 🌍 Experienced in developing **scalable ML pipelines** and **cloud-based AI solutions**
+- 🚀 Let's connect on [LinkedIn](https://www.linkedin.com/in/riccardo-gassino-77182ab6/)
 
 <br/>
 
-Toolbox 🧰
+### Toolbox 🧰
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width=50> <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width=50> <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width=50> <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width=50> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width=50> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width=50>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width=50> <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width=50> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width=50> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width=50> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width=50> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width=50> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width=50> 
+
+<br/>
+
+> “Transforming medical data into intelligent 3D insights.”
 
 <!--
 **riccgass/riccgass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
