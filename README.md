@@ -20,7 +20,7 @@
 
 <br/>
 
-> “Transforming medical data into intelligent 3D insights.”
+> “Transforming medical data into intelligent insights.”
 
 <!--
 **riccgass/riccgass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
