@@ -2,7 +2,7 @@
 
 <br/>
 
-- 💻 **Head of AI** — leading research and development in **3D reconstruction from medical images**
+- 💻 **Computer Vision Technical Lead** — leading research and development in **deeplearning for medical images**
 - 🧠 Biomedical engineer with a passion for **computer vision and artificial intelligence in healthcare**
 - 🌍 Experienced in developing **scalable ML pipelines** and **cloud-based AI solutions**
 - 🚀 Let's connect on [LinkedIn](https://www.linkedin.com/in/riccardo-gassino-77182ab6/)
